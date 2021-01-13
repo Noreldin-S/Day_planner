@@ -23,6 +23,6 @@ Third the Script sheet.
 - I also added a life time Date under the Header and <p>.
 - And since the it has a life time date and time, it will mark the past hours with gray background and the present hour with red and the future hours with green.
 
-<img src="assets/Screenshot.png" width="700" height="500">
+<img src="Assets/Screenshot.png" width="700" height="500">
 
   
