@@ -1,8 +1,8 @@
 # Day_planner
 
+https://github.com/Noreldin-S/Day_planner
 
-
-
+https://noreldin-s.github.io/Day_planner/
 
 First I added a Index.html.
 
